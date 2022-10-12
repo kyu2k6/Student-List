@@ -6,6 +6,7 @@
 //and u can reusre s
 
 #include <iostream>
+#include <cstring>
 
 using namespace std;
 
@@ -16,8 +17,9 @@ struct Student {
 	float gpa;
 };
 
-int main()
-{
-
+int main() {
+	
 	Student s;
+	cout << "Add or Delete? ";
+	
 }
